@@ -13,22 +13,22 @@ Hi, I'm **Revanth Addagalla**, a Data Engineer with expertise in building scalab
 ### 1️⃣ ETL Pipeline: AWS Glue & Redshift
 🚀 **Description**: Built an end-to-end ETL pipeline using AWS Glue to extract, transform, and load large datasets into Redshift for analytics.  
 🔹 **Tech Stack**: AWS Glue, Redshift, S3, Python, PySpark  
-🔹 **Repo**: [ETL-Pipeline-Glue](#) *(To be uploaded)*
+🔹 **Repo**: [ETL-Pipeline-Glue](#) 
 
 ### 2️⃣ Big Data Processing with Apache Spark
 🚀 **Description**: Developed a scalable Spark pipeline to process and analyze millions of records efficiently.  
 🔹 **Tech Stack**: Apache Spark, PySpark, Hadoop, SQL  
-🔹 **Repo**: [Big-Data-Spark](#) *(To be uploaded)*
+🔹 **Repo**: [Big-Data-Spark](#) 
 
 ### 3️⃣ Real-Time Data Pipeline with Kafka & Spark Streaming
 🚀 **Description**: Built a real-time data streaming pipeline using Kafka and Spark Streaming to process and analyze event-driven data.  
 🔹 **Tech Stack**: Kafka, Spark Streaming, Python  
-🔹 **Repo**: [Real-Time-Kafka](#) *(To be uploaded)*
+🔹 **Repo**: [Real-Time-Kafka](#) 
 
 ### 4️⃣ Data Visualization & Reporting
 🚀 **Description**: Created interactive dashboards for data insights using Tableau and Power BI, improving business decision-making.  
 🔹 **Tech Stack**: Tableau, Power BI, SQL, Python  
-🔹 **Repo**: [Data-Viz-Dashboards](#) *(To be uploaded)*
+🔹 **Repo**: [Data-Viz-Dashboards](#) 
 
 ---
 
